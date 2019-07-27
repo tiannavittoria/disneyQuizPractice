@@ -35,5 +35,5 @@ It no longer produced NaN. It now it returned the number of correct answers the 
 
 Try my code and see if it works for you!
 
-Thank you for joining me in my coding journey.
+Thank you for joining me on my coding journey.
   
