@@ -33,6 +33,10 @@ Therefore, I decided the variable had to be defined as a number inorder for the 
 with a number in place of correctAnswers. When I declared the variable with the number 0; the code ran correcty.
 It no longer produced NaN. It now it returned the number of correct answers the user inputed.
 
+UPDATE:
+I am learning to use ES6 let & const. 
+I have updated the code in this quiz from using var to using ES6 syntax.
+
 Try my code and see if it works for you!
 
 Thank you for joining me on my coding journey.
